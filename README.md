@@ -37,7 +37,7 @@ class ___FILEBASENAMEASIDENTIFIER___: UITableViewController {
   }
 }
 ```
-5. Create TemplateInfo.plist
+Last create TemplateInfo.plist
 ```shell
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
