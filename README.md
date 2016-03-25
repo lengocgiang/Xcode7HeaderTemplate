@@ -1,7 +1,7 @@
 # Xcode7HeaderTemplate
-base from: https://littlebitesofcocoa.com/89-custom-xcode-file-templates
-Custom template header in Xcode - UITableViewController
+base from: https://littlebitesofcocoa.com/89-custom-xcode-file-templates.
 
+Custom template header in Xcode - UITableViewController
 1. Go to folder ~/Library/Developer/Xcode/Templates/File Templates/
 2. Create Static Table View Controller.xctemplate(example folder name "Statuc Table View "with extension .xctemplate)
 3. Create icon (obtain TemplateIcon.png<48x48 pixel> and TemplateIcon@2x.png<96x96 pixel>) inside your folder
